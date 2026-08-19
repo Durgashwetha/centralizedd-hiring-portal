@@ -1,0 +1,20 @@
+# Dependencies & Runtimes
+node_modules/
+frontend/node_modules/
+.venv/
+env/
+venv/
+
+# Build outputs
+dist/
+frontend/dist/
+build/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
